@@ -121,3 +121,4 @@ void ModifFils(TArbre A, TArbre NouvA)
 	A->etat = NouvA->etat;
 	A->TabP = NouvA->TabP;	
 }
+sdgegdfdg
